@@ -1,5 +1,5 @@
 # art-piet-mondrian
-Learn piet mondrian with css
+Learn piet mondrian art with css
 
 Result:
 
